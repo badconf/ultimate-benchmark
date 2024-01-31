@@ -46,3 +46,6 @@ This repository categorizes benchmark sites into various sections for easier nav
 - [CDN Perf](https://www.cdnperf.com/): Find the fastest and most reliable CDN for free based on billions of tests.
 - [DNS Speed Benchmark](https://www.grc.com/dns/benchmark.htm): A unique, comprehensive, accurate & free Windows (and Linux/Wine) utility to determine the exact performance of local and remote DNS nameservers.
 
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
