@@ -48,4 +48,4 @@ This repository categorizes benchmark sites into various sections for easier nav
 
 ---
 
-🔓 Licensed under [Creative Commons Public Domain (CC0)](LICENSE.md).
+🔓 Licensed under [Creative Commons Public Domain (CC0)](LICENSE).
